@@ -1,2 +1,2 @@
-The Odin Project - Google Homepage
+Google Homepage Redo
 
