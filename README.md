@@ -1,4 +1,4 @@
-Google Homepage Redo with Light & Dark Theme
+# Google Homepage Redo with Light & Dark Theme
 
-You can easily switch between themes with theme button
+You can easily switch between themes with theme button <br/>
 Enjoy!
